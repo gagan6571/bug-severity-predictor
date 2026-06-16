@@ -1,0 +1,34 @@
+# Data
+numpy
+pandas
+scikit-learn
+
+
+
+# Backend
+fastapi
+uvicorn
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Frontend
+streamlit
+requests
+plotly
+
+# Database
+sqlalchemy
+
+# Utilities
+python-dotenv
+joblib
+matplotlib
+seaborn
+
+# Testing
+pytest
+
+PyJWT
+
+psycopg2-binary
