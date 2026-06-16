@@ -10,7 +10,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # ── Config ──
-API_URL = "https://bug-severity-predictor-ucxb.onrender.com"   
+API_URL = " https://bug-severity-predictor-ztsr.onrender.com"
 
 st.set_page_config(
     page_title="Bug Severity Predictor",
